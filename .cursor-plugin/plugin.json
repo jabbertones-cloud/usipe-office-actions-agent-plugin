@@ -1,0 +1,17 @@
+{
+  "name": "usipe-office-actions",
+  "displayName": "USIPE Office Actions",
+  "version": "0.1.0",
+  "description": "PRELAUNCH: Research USPTO trademark Office Actions, refusals, evidence gaps and response deadlines.",
+  "author": {
+    "name": "SMAT Designs"
+  },
+  "homepage": "https://usipe-mcp.smatdesigns.com",
+  "repository": "https://github.com/jabbertones-cloud/usipe-office-actions-agent-plugin",
+  "keywords": [
+    "usipe-office-actions",
+    "mcp"
+  ],
+  "category": "integrations",
+  "mcpServers": "./mcp.json"
+}
