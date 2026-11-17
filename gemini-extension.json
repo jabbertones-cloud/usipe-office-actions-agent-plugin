@@ -1,0 +1,10 @@
+{
+  "name": "usipe-office-actions",
+  "version": "0.1.0",
+  "description": "PRELAUNCH: Research USPTO trademark Office Actions, refusals, evidence gaps and response deadlines.",
+  "mcpServers": {
+    "usipe-office-actions": {
+      "httpUrl": "https://usipe-mcp.smatdesigns.com/mcp"
+    }
+  }
+}
