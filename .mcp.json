@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "usipe-office-actions": {
+      "type": "http",
+      "url": "https://usipe-mcp.smatdesigns.com/mcp",
+      "note": "Prelaunch/integration test only. PRELAUNCH ONLY: public OAuth discovery may point to an inaccessible proof-gated NAS staging issuer, requiring repair and live OAuth testing before release. Treat user-sup"
+    }
+  }
+}
