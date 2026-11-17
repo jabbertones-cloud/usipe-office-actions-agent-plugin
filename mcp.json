@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "usipe-office-actions": {
+      "type": "http",
+      "url": "https://usipe-mcp.smatdesigns.com/mcp"
+    }
+  }
+}
